@@ -1,0 +1,11 @@
+{
+  "name": "trainingweb",
+  "version": "1.0.0",
+  "description": "Static HTML training website",
+  "scripts": {
+    "start": "bash start.sh"
+  },
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
